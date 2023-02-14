@@ -1,4 +1,4 @@
-# vue3_todo
+# vue3_Posts
 
 ## Project setup
 ```
