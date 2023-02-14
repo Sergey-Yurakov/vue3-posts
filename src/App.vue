@@ -2,6 +2,7 @@
   <div class="app">
     <h1>Страница с постами</h1>
     <my-input v-model="searchQuery" placeholder="Поиск по заголовкам" />
+
     <div class="app__btn">
       <my-button class="btn" @click="showDialog"
         >Создать пользователя</my-button
