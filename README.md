@@ -1,24 +1,39 @@
-# vue3_Posts
 
-## Project setup
-```
-npm install
-```
+# Vue Posts
 
-### Compiles and hot-reloads for development
+Список постов, который написан на Vue 3.
+
+## Стек проекта
+
+**Client:** Vue, Vue-router, Axios, Eslint, Prettier.
+
+
+
+## Установка
+
+Установка зависимостей для vue3-posts, через npm
+
+```bash
+  npm install vue3-posts
+  cd vue3-posts
+```
+### Команда для запуска проекта
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Команда для запуска билда
 ```
 npm run build
 ```
 
-### Lints and fixes files
+### Команда для запуска линтера
 ```
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Скриншоты
+
+<img src='./public/screens/img.png' alt='image'>
+<img src='./public/screens/img_1.png' alt='image 1'>
+
